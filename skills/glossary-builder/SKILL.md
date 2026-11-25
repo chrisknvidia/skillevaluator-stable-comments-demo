@@ -1,5 +1,5 @@
 ---
-name: glossary-builder
+name: INVALID NAME
 description: Builds a small glossary from supplied prose. Use when a reader needs definitions grounded in the text and ambiguous terms identified.
 license: MIT
 metadata:
@@ -53,3 +53,5 @@ It does not introduce external definitions or resolve domain disagreements by gu
 ## Troubleshooting
 If the source contains conflicting definitions, include each meaning with its own wording.
 If text is empty or invalid, identify the input problem and request a readable excerpt.
+
+Preserve the source wording when citing a definition.
